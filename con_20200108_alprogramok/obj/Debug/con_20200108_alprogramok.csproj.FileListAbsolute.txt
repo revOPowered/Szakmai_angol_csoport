@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\SharpDevelop Projects\con_20200108_alprogramok\obj\Debug\con_20200108_alprogramok.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\SharpDevelop Projects\con_20200108_alprogramok\bin\Debug\con_20200108_alprogramok.exe.config
+C:\Users\admin\Documents\SharpDevelop Projects\con_20200108_alprogramok\bin\Debug\con_20200108_alprogramok.exe
+C:\Users\admin\Documents\SharpDevelop Projects\con_20200108_alprogramok\bin\Debug\con_20200108_alprogramok.pdb
+C:\Users\admin\Documents\SharpDevelop Projects\con_20200108_alprogramok\obj\Debug\con_20200108_alprogramok.exe
+C:\Users\admin\Documents\SharpDevelop Projects\con_20200108_alprogramok\obj\Debug\con_20200108_alprogramok.pdb
