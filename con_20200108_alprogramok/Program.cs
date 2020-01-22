@@ -1,4 +1,5 @@
-﻿/*
+//O.K. rendben...(Jámbor)﻿
+/*
  * Created by SharpDevelop.
  * User: admin
  * Date: 2020. 01. 08.
